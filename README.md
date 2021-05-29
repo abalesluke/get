@@ -3,6 +3,6 @@ get? use to get status code hahaha this command will be installed in your system
 this tool sux
 
 ## installation
-```py
+```
 sudo python3 installer.py
 ```
