@@ -11,6 +11,7 @@ try:
 	else:
 		os.system('chmod 777 get')
 		os.system('mv get /usr/bin/')
+		os.system('rm -rf ../get')
 		print('installation complete!')
 		print('you can now run "get" command anywhere in your terminal')
 except:
